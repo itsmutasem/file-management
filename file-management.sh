@@ -10,3 +10,9 @@ mkdir foldarName
 cd
 # The touch command is used to create an empty file
 touch fileName
+# The cat command stands for "concatenate", but in practice it's mostly used to display the contents of a file in the terminal.
+cat fileName
+# The nano command launches the Nano text editor — a simple, beginner-friendly command-line editor used to create or edit files directly from the terminal.
+nano fileName
+# The cp command is used to copy files and directories, Think of it as "copy-paste" from the terminal — but much more powerful.
+cp source_file destination
