@@ -4,3 +4,5 @@ pwd
 ls
 # The mkdir command stands for "make directory" — it’s used to create a new folder in your current directory or in a specified path.
 mkdir
+# The cd command stands for "change directory" — it's used to move between folders in a terminal.
+cd
