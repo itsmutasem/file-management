@@ -8,6 +8,8 @@ ls -l
 mkdir foldarName
 # The cd command stands for "change directory" — it's used to move between folders in a terminal.
 cd
+# the command cd .. means: Change directory to the perant folder
+cd ..
 # The touch command is used to create an empty file
 touch fileName
 # The cat command stands for "concatenate", but in practice it's mostly used to display the contents of a file in the terminal.
