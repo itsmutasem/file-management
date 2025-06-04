@@ -6,3 +6,5 @@ ls
 mkdir
 # The cd command stands for "change directory" — it's used to move between folders in a terminal.
 cd
+# The touch command is used to create an empty file
+touch
