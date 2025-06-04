@@ -16,3 +16,5 @@ cat fileName
 nano fileName
 # The cp command is used to copy files and directories, Think of it as "copy-paste" from the terminal — but much more powerful.
 cp source_file destination
+# The mv command is used to move or rename files and directories
+mv source target
