@@ -20,3 +20,7 @@ nano fileName
 cp source_file destination
 # The mv command is used to move or rename files and directories
 mv source target
+# The rm command is used to delete files and directories from the terminal
+rm fileName
+# This command removes all files in the current directory that end with .temp
+rm *.temp
