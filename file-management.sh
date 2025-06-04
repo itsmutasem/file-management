@@ -3,8 +3,8 @@ pwd
 # The ls command is used to list files and directories in the current working directory
 ls
 # The mkdir command stands for "make directory" — it’s used to create a new folder in your current directory or in a specified path.
-mkdir
+mkdir foldarName
 # The cd command stands for "change directory" — it's used to move between folders in a terminal.
 cd
 # The touch command is used to create an empty file
-touch
+touch fileName
