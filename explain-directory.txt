@@ -1,0 +1,14 @@
+/  => root directory
+    file.txt
+    file2.txt 
+    file3.txt
+    vedios/
+    |    vedio1.mp4
+    |    vedio2.mp4
+    |    vedio3.mp4
+    |    backsup/
+    |    |     v1
+    |    |     v2
+    |    |     v3
+    images/
+         image1.png`
