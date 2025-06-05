@@ -1,8 +1,11 @@
-#  🔍 Show the absolute path of the current working directory
+# 🔍 Show the absolute path of the current working directory
 pwd
 
-#  📁 List files and directories
-ls             # Simple list
-ls -l          # Long listing with permissions, size, and date
-ls -a          # Include hidden files (like .git, .env)
+# 📁 List files and directories
+ls                     # Simple list
+ls -l                  # Long listing with permissions, size, and date
+ls -a                  # Include hidden files (like .git, .env)
+
+# 📁 Create a new directory
+mkdir MyFolder         # Create a folder named "MyFolder"
 
