@@ -28,3 +28,5 @@ rm *.temp
 find . -name "fileName"
 # is used to search for all .txt files inside the current directory (.) and all its subdirectories.
 find . -name "*.txt"
+#  --help to a command is the quick and portable way to get built-in help
+toolName --help
