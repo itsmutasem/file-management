@@ -24,3 +24,5 @@ mv source target
 rm fileName
 # This command removes all files in the current directory that end with .temp
 rm *.temp
+# This command searches for a file named exactly "fileName" starting from the current directory (.) and looking through all subdirectories.
+find . -name "fileName"
