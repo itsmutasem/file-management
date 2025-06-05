@@ -30,3 +30,5 @@ find . -name "fileName"
 find . -name "*.txt"
 #  --help to a command is the quick and portable way to get built-in help
 toolName --help
+# This command shows a list of all the commands you've previously run in the terminal session
+history
