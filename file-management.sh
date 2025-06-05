@@ -32,3 +32,5 @@ find . -name "*.txt"
 toolName --help
 # This command shows a list of all the commands you've previously run in the terminal session
 history
+# This command executes a Python script named file.py using the Python interpreter
+python file.py
