@@ -26,3 +26,5 @@ rm fileName
 rm *.temp
 # This command searches for a file named exactly "fileName" starting from the current directory (.) and looking through all subdirectories.
 find . -name "fileName"
+# is used to search for all .txt files inside the current directory (.) and all its subdirectories.
+find . -name "*.txt"
