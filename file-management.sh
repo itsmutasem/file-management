@@ -9,3 +9,6 @@ ls -a                  # Include hidden files (like .git, .env)
 # 📁 Create a new directory
 mkdir MyFolder         # Create a folder named "MyFolder"
 
+# 🔄 Navigate into a directory
+cd MyFolder            # Move into the "MyFolder" directory
+
