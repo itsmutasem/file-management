@@ -24,3 +24,6 @@ touch file1.txt        # Creates a file named "file1.txt"
 # 📝 Creates multiple files at once
 touch file2.txt file3.txt notes.md
 
+# 📜 Display the contents of a file
+cat file1.txt          # View contents in the terminal
+
