@@ -27,3 +27,6 @@ touch file2.txt file3.txt notes.md
 # 📜 Display the contents of a file
 cat file1.txt          # View contents in the terminal
 
+# ✏️ Edit a file using the nano terminal editor
+nano file1.txt
+
