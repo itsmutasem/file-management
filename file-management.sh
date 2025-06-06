@@ -55,3 +55,7 @@ rm *.temp              # Deletes all ".temp" files in the current directory
 mv file1.txt renamed.txt   # Renames the file
 mv renamed.txt MyFolder/   # Moves the file into "MyFolder"
 
+# 🔍 Find files or folders by name
+find . -name "file1.txt"   # Finds file1.txt from the current path
+find . -name "*.txt"       # Finds all .txt files
+
