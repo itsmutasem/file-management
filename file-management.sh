@@ -15,3 +15,6 @@ cd MyFolder            # Move into the "MyFolder" directory
 # 🔙 Go back to the perent directory
 cd ..
 
+# 🧭 Jump directly to your home directory
+cd ~
+
