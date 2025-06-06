@@ -18,3 +18,6 @@ cd ..
 # 🧭 Jump directly to your home directory
 cd ~
 
+# 📄 Create a new empty file
+touch file1.txt        # Creates a file named "file1.txt"
+
