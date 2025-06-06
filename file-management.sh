@@ -33,3 +33,6 @@ nano file1.txt
 # 🧾 Count lines, words, and characters in a file
 wc file1.txt           # Lines, words, and character count
 
+# 🧹 Clear the terminal screen
+clear
+
