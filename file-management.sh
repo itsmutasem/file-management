@@ -30,3 +30,6 @@ cat file1.txt          # View contents in the terminal
 # ✏️ Edit a file using the nano terminal editor
 nano file1.txt
 
+# 🧾 Count lines, words, and characters in a file
+wc file1.txt           # Lines, words, and character count
+
