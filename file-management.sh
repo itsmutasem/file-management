@@ -42,3 +42,12 @@ cp file1.txt copy.txt  # Makes a copy of file1.txt named copy.txt
 # ➕ Copy a directory
 cp -r Myfolder BackupFolder
 
+# 🗑️ Delete a file
+rm file2.txt
+
+# 🗑️ Delete a directory and its contents
+rm -r MyFolder
+
+# 🗑️ Delete all files with a specific extension
+rm *.temp              # Deletes all ".temp" files in the current directory
+
