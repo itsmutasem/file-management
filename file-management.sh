@@ -21,3 +21,6 @@ cd ~
 # 📄 Create a new empty file
 touch file1.txt        # Creates a file named "file1.txt"
 
+# 📝 Creates multiple files at once
+touch file2.txt file3.txt notes.md
+
