@@ -12,3 +12,6 @@ mkdir MyFolder         # Create a folder named "MyFolder"
 # 🔄 Navigate into a directory
 cd MyFolder            # Move into the "MyFolder" directory
 
+# 🔙 Go back to the perent directory
+cd ..
+
