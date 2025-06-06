@@ -51,3 +51,7 @@ rm -r MyFolder
 # 🗑️ Delete all files with a specific extension
 rm *.temp              # Deletes all ".temp" files in the current directory
 
+# 🔀 Rename or move a file
+mv file1.txt renamed.txt   # Renames the file
+mv renamed.txt MyFolder/   # Moves the file into "MyFolder"
+
