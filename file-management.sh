@@ -36,3 +36,9 @@ wc file1.txt           # Lines, words, and character count
 # 🧹 Clear the terminal screen
 clear
 
+# ➕ Copy a file
+cp file1.txt copy.txt  # Makes a copy of file1.txt named copy.txt
+
+# ➕ Copy a directory
+cp -r Myfolder BackupFolder
+
