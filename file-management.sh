@@ -69,3 +69,6 @@ history
 # Run a Python script
 Python fiel.py
 
+# 🧮 Count total number of files in the current folder
+ls | wc -l
+
