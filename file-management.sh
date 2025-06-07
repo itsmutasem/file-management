@@ -72,3 +72,6 @@ Python fiel.py
 # 🧮 Count total number of files in the current folder
 ls | wc -l
 
+# 📚 Show file type
+file file1.txt             # Tells you if it's text, binary, image, etc.
+
