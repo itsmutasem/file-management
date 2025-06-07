@@ -75,3 +75,6 @@ ls | wc -l
 # 📚 Show file type
 file file1.txt             # Tells you if it's text, binary, image, etc.
 
+# 📁 Show disk usage of a directory or file
+du -sh MyFolder            # Human-readable summary of folder size
+
