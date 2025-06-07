@@ -81,3 +81,6 @@ du -sh MyFolder            # Human-readable summary of folder size
 # 📦 Show disk space usage for the current drive
 df -h
 
+# 🚀 Open current folder in VS Code (if 'code' CLI is installed)
+code .
+
