@@ -59,3 +59,7 @@ mv renamed.txt MyFolder/   # Moves the file into "MyFolder"
 find . -name "file1.txt"   # Finds file1.txt from the current path
 find . -name "*.txt"       # Finds all .txt files
 
+# ❓ Get help for any command
+ls --help
+mkdir --help
+
