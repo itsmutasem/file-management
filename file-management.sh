@@ -63,3 +63,6 @@ find . -name "*.txt"       # Finds all .txt files
 ls --help
 mkdir --help
 
+# 🧠 See command history
+history
+
