@@ -66,3 +66,6 @@ mkdir --help
 # 🧠 See command history
 history
 
+# Run a Python script
+Python fiel.py
+
